@@ -15,9 +15,7 @@ export default function Home() {
     return (
         <div className="flex flex-col items-center justify-center">
             <div className="text-center space-y-2 mb-4">
-                <h1 className="text-3xl font-bold mb-4">
-                    Noncompete Summary Generator
-                </h1>
+                <h1 className="text-3xl font-bold mb-20">Summarize Document</h1>
                 <p className="text-gray-500 md:mx-auto dark:text-gray-400">
                     Upload a file to generate a summary of its contents.
                 </p>
